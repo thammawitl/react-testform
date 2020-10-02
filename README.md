@@ -1,3 +1,6 @@
+Init Project on Wednesday September 30
+Started Task on Thursday October 1
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
